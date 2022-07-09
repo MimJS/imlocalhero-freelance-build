@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6275d7ab.css",
+    "main.js": "/static/js/main.20d94f27.js",
+    "static/media/ComputerView.svg": "/static/media/ComputerView.eec59a2f29d4b4049a8c.svg",
+    "static/media/ComputerMonitor.svg": "/static/media/ComputerMonitor.1692e880583ff08800cb.svg",
+    "static/media/Maksim.svg": "/static/media/Maksim.e71c93308a1292cba7c64768e8bc1e8c.svg",
+    "static/media/BoxThree.svg": "/static/media/BoxThree.e221850cd9ecff93dad52ef793ca2a8e.svg",
+    "static/media/BoxTwo.svg": "/static/media/BoxTwo.34d2de12712f159fb68dcc24d84d3fb3.svg",
+    "static/media/Dima.svg": "/static/media/Dima.f86200ee2d51fbd1c368d756f6a68c7b.svg",
+    "static/media/BoxOne.svg": "/static/media/BoxOne.b441debb0d91848a3b35df9af251bff1.svg",
+    "static/media/Dmitry.svg": "/static/media/Dmitry.2611f09cfc44a3dcfdc9a774e2c365bf.svg",
+    "static/media/Rost.svg": "/static/media/Rost.17535a4ce94d3c9466d5587a67a6da14.svg",
+    "static/media/George.svg": "/static/media/George.ff9ad01941fe53d951c791eac6d785d0.svg",
+    "static/media/Fyodor-Bold.eot": "/static/media/Fyodor-Bold.c55f000d892339a442db.eot",
+    "static/media/RoadMapPanel.svg": "/static/media/RoadMapPanel.4f2ddb35b1c322e27dfab8359f738035.svg",
+    "static/media/Home.svg": "/static/media/Home.123a1cb97c4484b4d1f9f1dd1530a5ec.svg",
+    "static/media/RoadMap.svg": "/static/media/RoadMap.e9795360eee74e20d881ac7ca4103c97.svg",
+    "static/media/Team.svg": "/static/media/Team.ac598388186e852d01cb6b88ba6776a6.svg",
+    "static/media/BackHome.svg": "/static/media/BackHome.5fa57f109202785c91c4871a8f9ee8cb.svg",
+    "static/media/Resources.svg": "/static/media/Resources.5d6a87958266aa6ef5c92794ab34a486.svg",
+    "static/media/Intro.svg": "/static/media/Intro.8793ffdce5f743923775fea92f632d50.svg",
+    "static/media/Fyodor-Bold.woff": "/static/media/Fyodor-Bold.b80bed9d637a1423a6ea.woff",
+    "static/media/Fyodor-Bold.woff2": "/static/media/Fyodor-Bold.6f3c6127c5cc8e62b2b4.woff2",
+    "static/media/RoadMapLine.svg": "/static/media/RoadMapLine.be8be6ebcdf236c12cda375c1148638e.svg",
+    "index.html": "/index.html",
+    "main.6275d7ab.css.map": "/static/css/main.6275d7ab.css.map",
+    "main.20d94f27.js.map": "/static/js/main.20d94f27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6275d7ab.css",
+    "static/js/main.20d94f27.js"
+  ]
+}
